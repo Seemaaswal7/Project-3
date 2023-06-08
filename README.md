@@ -3,18 +3,24 @@
 
 a) We will combine NYC data files( Brooklyn, Bronx, Manhattan and Queens) run the models xgboost, random forest, cat boost and predict
 
-b) Create streamlit app and select the following criteria to calculate the predicted price
+b) Create streamlit app and select the following criteria to predicte price
 
+            - Select the Machine Learning Model
+            
             - Which Borough
             
-            - What building  Building_Class_Category
+            - Which Neighbourhood
             
-            - What is Land_Square_Feet
+            - How many Residential Unit
             
-            - When was it built Year Built
+            - Which Building_Class_Category
+            
+            - Which Tax Class Category
+            
+            - Age of the house
             
             - Longitute
             
-            - latitude
+            - Latitude
 
             
