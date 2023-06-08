@@ -21,6 +21,4 @@ b) Create streamlit app and select the following criteria to predicte price
             
             - Longitute
             
-            - Latitude
-
-            
+            - Latitude          
