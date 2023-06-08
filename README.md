@@ -3,7 +3,7 @@
 
 a) NYC data files( Brooklyn, Bronx, and Queens) run the models xgboost, random forest, cat boost and predict
 
-b) Create streamlit app and select the following criteria to predicte price
+b) Create streamlit app and select the following criteria to predict price
 
             - Select the Machine Learning Model
             
